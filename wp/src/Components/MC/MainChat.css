@@ -1,0 +1,33 @@
+.main-chat-container {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.chat-item {
+  margin: 15px;
+  text-align: center;
+}
+
+.group-chat {
+  color: white;
+  font-weight: bold;
+}
+
+.user-chat-button {
+  background-color: #0090f1;
+  border-radius: 25px;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.2s ease;
+}
+
+.user-chat-button:hover {
+  background-color: #0079c1;
+}
