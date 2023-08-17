@@ -1,4 +1,4 @@
-# End to End Encrypted Chat Application with One-on-One Calling Func and more
+# End to End Chat Application with One-on-One Calling Func and more
 
 Technologies Used:
 
